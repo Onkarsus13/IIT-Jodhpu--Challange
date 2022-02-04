@@ -16,7 +16,7 @@ All the logs are in the respective notebooks
 With Fouryer Visual Trnasform we would get better accuracy, if we make network deeper,
 due to computational efficiency i have onlu used three blocks from ViT and 2 two blcoks from FVT, so this intend the accuracy reaches to 77%
 
-with the analysis I have run the Inference on Custom-EfficientNet-B0 and made the 'test_predection.csv'
+with the analysis I have run the Inference on Custom-EfficientNet-B0 and made the `test_predection.csv`
 
 `IIT_jodhpur_challange.ipynb` In this notebook we have run teh inference,
 just upload the notebook to colab and run all code shell sequentially model will start training. All the dependeny have been taken care off.
