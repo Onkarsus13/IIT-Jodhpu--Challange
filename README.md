@@ -1,4 +1,4 @@
-# IIT-Jodhpu--Challange
+# IIT-Jodhpur--Challange
 IIT-Jodhpur challange for Research Associate
 
 Dataset Used: https://www.kaggle.com/c/logical-rythm-2k20-sports-image-classification/overview
