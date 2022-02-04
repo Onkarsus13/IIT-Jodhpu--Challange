@@ -13,11 +13,11 @@ with Custom EfficientNet-bo we have got 97% on Train and 88% on Val
 
 For Fouryer Visual Transformwe we got 87%  on train and 77% on val, 
 
-All the logs are in the respective notebooks
-
 With Fouryer Visual Trnasform we would get better accuracy, if we make network deeper,
 due to computational efficiency i have onlu used three blocks from ViT and 2 two blcoks from FVT, 
 so this intend the accuracy reaches to 77%
+
+Tensorboard Logs: https://tensorboard.dev/experiment/LjfzwZbgT4W6XpjLYJxUrg/
 
 with the analysis I have run the Inference on Custom-EfficientNet-B0 and made the `test_predection.csv`
 
